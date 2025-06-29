@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686306978416",
+    "project_id": "artifitiatest",
+    "storage_bucket": "artifitiatest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686306978416:android:d2694e75a4aac6f594a2b5",
+        "android_client_info": {
+          "package_name": "com.example.artifitia_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4I6wsHSmVu1CyaGXGXTU_BsShcCc96rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
